@@ -3002,7 +3002,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "62f5e47e-71fa-408b-9e56-8f21bf7f3fbf")
-		(property "Reference" "J3"
+		(property "Reference" "J8"
 			(at 252.222 85.09 0)
 			(effects
 				(font
@@ -3057,7 +3057,7 @@
 		(instances
 			(project "Solar_Array"
 				(path "/011c63e0-39e1-4fa5-83a2-f641a2cc657e"
-					(reference "J3")
+					(reference "J8")
 					(unit 1)
 				)
 			)
@@ -3558,7 +3558,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a98db36b-a686-4651-8fa6-002165093ce0")
-		(property "Reference" "J2"
+		(property "Reference" "J9"
 			(at 241.3 100.076 0)
 			(effects
 				(font
@@ -3611,7 +3611,7 @@
 		(instances
 			(project "Solar_Array"
 				(path "/011c63e0-39e1-4fa5-83a2-f641a2cc657e"
-					(reference "J2")
+					(reference "J9")
 					(unit 1)
 				)
 			)
@@ -3696,7 +3696,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "af024907-0efc-40e3-b666-43dcd3689318")
-		(property "Reference" "J4"
+		(property "Reference" "J3"
 			(at 252.222 100.33 0)
 			(effects
 				(font
@@ -3751,7 +3751,7 @@
 		(instances
 			(project "Solar_Array"
 				(path "/011c63e0-39e1-4fa5-83a2-f641a2cc657e"
-					(reference "J4")
+					(reference "J3")
 					(unit 1)
 				)
 			)

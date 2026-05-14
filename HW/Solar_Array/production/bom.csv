@@ -1,0 +1,4 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C2",1210,2,100u,
+"D1, D10, D11, D12, D13, D14, D15, D16, D2, D3, D4, D5, D6, D7, D8, D9",Osram_DIL2_4.3x4.65mm_P5.08mm,16,BPW34,
+"J1, J3, J8, J9",PinSocket_1x02_P2.54mm_Vertical,4,Conn_01x02,
